@@ -1,0 +1,37 @@
+30 seeds to run
+[  1169s] seed 3: HV=0.6500 cpu=1130s
+[  1331s] seed 4: HV=0.6514 cpu=1286s
+[  1353s] seed 11: HV=0.6503 cpu=1306s
+[  1395s] seed 8: HV=0.6551 cpu=1351s
+[  1413s] seed 2: HV=0.6525 cpu=1367s
+[  1458s] seed 10: HV=0.6536 cpu=1411s
+[  1478s] seed 7: HV=0.6534 cpu=1428s
+[  1529s] seed 6: HV=0.6553 cpu=1478s
+[  1530s] seed 9: HV=0.6582 cpu=1481s
+[  1535s] seed 5: HV=0.6518 cpu=1486s
+[  1577s] seed 1: HV=0.6506 cpu=1526s
+[  1648s] seed 0: HV=0.6526 cpu=1598s
+[  2370s] seed 12: HV=0.6490 cpu=1183s
+[  2559s] seed 13: HV=0.6547 cpu=1213s
+[  2581s] seed 14: HV=0.6526 cpu=1215s
+[  2608s] seed 15: HV=0.6511 cpu=1201s
+[  2711s] seed 16: HV=0.6531 cpu=1284s
+[  2783s] seed 22: HV=0.6534 cpu=1195s
+[  2810s] seed 23: HV=0.6533 cpu=1152s
+[  2856s] seed 19: HV=0.6538 cpu=1316s
+[  2859s] seed 18: HV=0.6552 cpu=1368s
+[  2865s] seed 17: HV=0.6561 cpu=1393s
+[  2889s] seed 21: HV=0.6564 cpu=1341s
+[  3075s] seed 20: HV=0.6525 cpu=1530s
+[  3564s] seed 25: HV=0.6554 cpu=994s
+[  3644s] seed 27: HV=0.6554 cpu=1025s
+[  3647s] seed 24: HV=0.6568 cpu=1263s
+[  3752s] seed 28: HV=0.6533 cpu=1030s
+[  3835s] seed 29: HV=0.6549 cpu=1041s
+[  3837s] seed 26: HV=0.6501 cpu=1242s
+HERA         0.6477 +- 0.0077  cpu=   52.6s
+qEHVI-LBFGS  0.6534 +- 0.0023  cpu= 1294.5s  dHV=+0.0057 p=5.05e-04 W/L=9/21
+qEHVI        0.6168 +- 0.0074  cpu=  113.8s  dHV=-0.0309 p=1.86e-09 W/L=30/0
+qParEGO      0.5870 +- 0.0107  cpu=   47.8s  dHV=-0.0607 p=1.86e-09 W/L=30/0
+NSGA-II      0.4729 +- 0.0381  cpu=    0.1s  dHV=-0.1748 p=1.86e-09 W/L=30/0
+Random       0.4637 +- 0.0279  cpu=    0.1s  dHV=-0.1840 p=1.86e-09 W/L=30/0

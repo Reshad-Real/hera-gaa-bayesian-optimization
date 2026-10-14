@@ -1,0 +1,86 @@
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+50 runs to do; cache 100
+[    699s] seed   3 HERA-TI   HV=0.6864 sims=53 fail=0 wall=697s cpu(opt)=40s
+[    700s] seed   9 HERA-TI   HV=0.6816 sims=54 fail=0 wall=698s cpu(opt)=44s
+[    702s] seed   6 HERA-TI   HV=0.6854 sims=54 fail=0 wall=700s cpu(opt)=43s
+[    710s] seed   4 HERA-TI   HV=0.6856 sims=54 fail=0 wall=708s cpu(opt)=37s
+[    712s] seed   0 HERA-TI   HV=0.6866 sims=54 fail=0 wall=710s cpu(opt)=41s
+[    713s] seed   1 HERA-TI   HV=0.6874 sims=54 fail=0 wall=711s cpu(opt)=39s
+[    718s] seed   8 HERA-TI   HV=0.6800 sims=54 fail=0 wall=716s cpu(opt)=43s
+[    726s] seed   5 HERA-TI   HV=0.6875 sims=54 fail=0 wall=724s cpu(opt)=41s
+[    729s] seed   7 HERA-TI   HV=0.6861 sims=54 fail=0 wall=727s cpu(opt)=43s
+[    746s] seed   2 HERA-TI   HV=0.6842 sims=54 fail=0 wall=744s cpu(opt)=37s
+[    794s] seed   4 qEHVI-TI  HV=0.6546 sims=54 fail=0 wall=792s cpu(opt)=85s
+[    800s] seed   3 qEHVI-TI  HV=0.6651 sims=54 fail=0 wall=797s cpu(opt)=94s
+[    811s] seed   0 qEHVI-TI  HV=0.6606 sims=54 fail=0 wall=809s cpu(opt)=93s
+[    819s] seed   5 qEHVI-TI  HV=0.6580 sims=54 fail=0 wall=817s cpu(opt)=103s
+[    825s] seed   2 qEHVI-TI  HV=0.6502 sims=54 fail=0 wall=823s cpu(opt)=98s
+[    828s] seed   1 qEHVI-TI  HV=0.6473 sims=54 fail=0 wall=826s cpu(opt)=104s
+[    835s] seed   6 qEHVI-TI  HV=0.6476 sims=54 fail=0 wall=833s cpu(opt)=107s
+[   1403s] seed   4 HERA      HV=0.6332 sims=53 fail=0 wall=677s cpu(opt)=36s
+[   1422s] seed   1 HERA      HV=0.6828 sims=54 fail=0 wall=710s cpu(opt)=40s
+[   1428s] seed   0 HERA      HV=0.6846 sims=54 fail=0 wall=718s cpu(opt)=41s
+[   1430s] seed   6 HERA      HV=0.6816 sims=53 fail=0 wall=684s cpu(opt)=37s
+[   1432s] seed   3 HERA      HV=0.6839 sims=54 fail=0 wall=714s cpu(opt)=38s
+[   1446s] seed   2 HERA      HV=0.6810 sims=54 fail=0 wall=733s cpu(opt)=40s
+[   1447s] seed   5 HERA      HV=0.6776 sims=54 fail=0 wall=718s cpu(opt)=36s
+[   1485s] seed   7 HERA      HV=0.6810 sims=53 fail=0 wall=691s cpu(opt)=42s
+[   1494s] seed   8 HERA      HV=0.6812 sims=54 fail=0 wall=695s cpu(opt)=43s
+[   1509s] seed   9 HERA      HV=0.6839 sims=54 fail=0 wall=698s cpu(opt)=40s
+[   1564s] seed   3 qEHVI     HV=0.6480 sims=50 fail=0 wall=729s cpu(opt)=89s
+[   1611s] seed   2 qEHVI     HV=0.6411 sims=54 fail=0 wall=782s cpu(opt)=107s
+[   1615s] seed   0 qEHVI     HV=0.6459 sims=54 fail=0 wall=796s cpu(opt)=100s
+[   1617s] seed   1 qEHVI     HV=0.6248 sims=54 fail=0 wall=792s cpu(opt)=70s
+[   2134s] seed   0 Random    HV=0.4525 sims=54 fail=0 wall=687s cpu(opt)=-19s
+[   2157s] seed   4 qEHVI     HV=0.6480 sims=48 fail=0 wall=753s cpu(opt)=114s
+[   2158s] seed   6 qEHVI     HV=0.6416 sims=48 fail=0 wall=730s cpu(opt)=98s
+[   2160s] seed   5 qEHVI     HV=0.6552 sims=49 fail=0 wall=738s cpu(opt)=98s
+[   2164s] seed   1 Random    HV=0.4470 sims=54 fail=0 wall=678s cpu(opt)=-20s
+[   2181s] seed   2 Random    HV=0.4197 sims=54 fail=0 wall=687s cpu(opt)=-20s
+[   2194s] seed   3 Random    HV=0.4363 sims=54 fail=0 wall=685s cpu(opt)=-20s
+[   2200s] seed   7 qEHVI     HV=0.6529 sims=54 fail=0 wall=770s cpu(opt)=102s
+[   2208s] seed   8 qEHVI     HV=0.6318 sims=54 fail=0 wall=776s cpu(opt)=78s
+[   2230s] seed   4 Random    HV=0.5068 sims=54 fail=0 wall=667s cpu(opt)=-19s
+[   2253s] seed   9 qEHVI     HV=0.6223 sims=54 fail=0 wall=807s cpu(opt)=99s
+[   2266s] seed   5 Random    HV=0.4608 sims=54 fail=0 wall=655s cpu(opt)=-18s
+[   2267s] seed   6 Random    HV=0.4939 sims=54 fail=0 wall=652s cpu(opt)=-18s
+[   2269s] seed   7 Random    HV=0.4923 sims=54 fail=0 wall=652s cpu(opt)=-18s
+[   2677s] seed   8 Random    HV=0.4521 sims=54 fail=0 wall=543s cpu(opt)=-10s
+[   2693s] seed   9 Random    HV=0.4646 sims=54 fail=0 wall=537s cpu(opt)=-10s
+FAILED seed 7 qEHVI-TI: BrokenProcessPool('A process in the process pool was terminated abruptly while the future was running or pending.')
+FAILED seed 8 qEHVI-TI: BrokenProcessPool('A process in the process pool was terminated abruptly while the future was running or pending.')
+FAILED seed 9 qEHVI-TI: BrokenProcessPool('A process in the process pool was terminated abruptly while the future was running or pending.')
+done 47 runs

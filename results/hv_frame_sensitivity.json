@@ -1,0 +1,50 @@
+{
+ "a priori (main)": {
+  "means": {
+   "HERA": 0.6477284850072117,
+   "qEHVI": 0.616813863439088,
+   "qParEGO": 0.586983005026576,
+   "NSGA-II": 0.47290674371012525,
+   "Random": 0.4636983408520691
+  },
+  "p_vs_qehvi": 1.862645149230957e-09,
+  "wins_vs_qehvi": 30,
+  "wins_all_baselines_all_seeds": true
+ },
+ "data-driven (union of all feasible evaluations)": {
+  "means": {
+   "HERA": 0.803818286917161,
+   "qEHVI": 0.7605392919224877,
+   "qParEGO": 0.7158429776019483,
+   "NSGA-II": 0.5252303957196179,
+   "Random": 0.5157645327890017
+  },
+  "p_vs_qehvi": 3.725290298461914e-09,
+  "wins_vs_qehvi": 29,
+  "wins_all_baselines_all_seeds": false
+ },
+ "a priori, enlarged by 10% per side": {
+  "means": {
+   "HERA": 0.5283619877966363,
+   "qEHVI": 0.5057798165844869,
+   "qParEGO": 0.4837689362099588,
+   "NSGA-II": 0.3989144087250806,
+   "Random": 0.3932879194852177
+  },
+  "p_vs_qehvi": 1.862645149230957e-09,
+  "wins_vs_qehvi": 30,
+  "wins_all_baselines_all_seeds": true
+ },
+ "a priori, tightened nadir (y1>=7, SS<=70 mV/dec, y3>=11.7)": {
+  "means": {
+   "HERA": 0.48439571448923846,
+   "qEHVI": 0.44957409572214857,
+   "qParEGO": 0.41657759875947903,
+   "NSGA-II": 0.2878925144278544,
+   "Random": 0.2722156560078251
+  },
+  "p_vs_qehvi": 1.862645149230957e-09,
+  "wins_vs_qehvi": 30,
+  "wins_all_baselines_all_seeds": true
+ }
+}

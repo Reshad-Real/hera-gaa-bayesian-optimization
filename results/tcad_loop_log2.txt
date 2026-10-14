@@ -1,0 +1,41 @@
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+13 runs to do; cache 2605
+[   1009s] seed   7 qEHVI-TI  HV=0.6550 sims=52 fail=0 wall=1005s cpu(opt)=-686s
+[   1015s] seed   8 qEHVI-TI  HV=0.6413 sims=52 fail=0 wall=1010s cpu(opt)=-711s
+[   1062s] seed   9 qEHVI-TI  HV=0.6504 sims=51 fail=0 wall=1058s cpu(opt)=-701s
+[   1100s] seed   7 HERA-D    HV=0.6891 sims=53 fail=0 wall=1095s cpu(opt)=-611s
+[   1103s] seed   3 HERA-D    HV=0.6889 sims=54 fail=0 wall=1097s cpu(opt)=-613s
+[   1104s] seed   9 HERA-D    HV=0.6898 sims=54 fail=0 wall=1099s cpu(opt)=-613s
+[   1109s] seed   1 HERA-D    HV=0.6894 sims=54 fail=0 wall=1103s cpu(opt)=-601s
+[   1110s] seed   4 HERA-D    HV=0.6891 sims=54 fail=0 wall=1105s cpu(opt)=-610s
+[   1113s] seed   6 HERA-D    HV=0.6907 sims=54 fail=0 wall=1107s cpu(opt)=-598s
+[   1123s] seed   2 HERA-D    HV=0.6894 sims=54 fail=0 wall=1118s cpu(opt)=-607s
+[   1125s] seed   0 HERA-D    HV=0.6898 sims=54 fail=0 wall=1120s cpu(opt)=-597s
+[   1128s] seed   8 HERA-D    HV=0.6872 sims=54 fail=0 wall=1122s cpu(opt)=-621s
+[   1131s] seed   5 HERA-D    HV=0.6885 sims=54 fail=0 wall=1125s cpu(opt)=-613s
+done 60 runs

@@ -1,0 +1,56 @@
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+Searching DEVSIM_MATH_LIBS="C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll"
+Loading "C:\Users\Asus ROG Strix G16\AppData\Local\Python\pythoncore-3.14-64\Library\bin\mkl_rt.3.dll": Intel MKL with PARDISO LOADED
+20 runs to do; cache 4678
+[   2414s] seed   3 qEHVI-LBFGS HV=0.6805 sims=54 fail=0 wall=2412s cpu(opt)=905s
+[   2437s] seed   8 qEHVI-LBFGS HV=0.6731 sims=54 fail=0 wall=2435s cpu(opt)=908s
+[   2481s] seed   9 qEHVI-LBFGS HV=0.6808 sims=54 fail=0 wall=2479s cpu(opt)=979s
+[   2516s] seed   2 qEHVI-LBFGS HV=0.6777 sims=53 fail=0 wall=2514s cpu(opt)=988s
+[   2547s] seed   5 qEHVI-LBFGS HV=0.6866 sims=54 fail=0 wall=2545s cpu(opt)=998s
+[   2572s] seed   4 qEHVI-LBFGS HV=0.6887 sims=54 fail=0 wall=2570s cpu(opt)=985s
+[   2613s] seed   7 qEHVI-LBFGS HV=0.6842 sims=54 fail=0 wall=2610s cpu(opt)=1076s
+[   2625s] seed   1 qEHVI-LBFGS HV=0.6733 sims=54 fail=0 wall=2623s cpu(opt)=1072s
+[   2689s] seed   0 qEHVI-LBFGS HV=0.6846 sims=54 fail=0 wall=2687s cpu(opt)=1082s
+[   2780s] seed   6 qEHVI-LBFGS HV=0.6862 sims=54 fail=0 wall=2778s cpu(opt)=1186s
+[   3228s] seed   5 qEHVI-LBFGS-D HV=0.6910 sims=54 fail=0 wall=3225s cpu(opt)=1663s
+[   3318s] seed   6 qEHVI-LBFGS-D HV=0.6895 sims=54 fail=0 wall=3315s cpu(opt)=1761s
+[   3360s] seed   4 qEHVI-LBFGS-D HV=0.6899 sims=54 fail=0 wall=3357s cpu(opt)=1779s
+[   3379s] seed   3 qEHVI-LBFGS-D HV=0.6906 sims=54 fail=0 wall=3376s cpu(opt)=1817s
+[   3450s] seed   0 qEHVI-LBFGS-D HV=0.6898 sims=54 fail=0 wall=3447s cpu(opt)=1893s
+[   3456s] seed   1 qEHVI-LBFGS-D HV=0.6896 sims=54 fail=0 wall=3453s cpu(opt)=1838s
+[   3482s] seed   2 qEHVI-LBFGS-D HV=0.6907 sims=54 fail=0 wall=3479s cpu(opt)=1931s
+[   4785s] seed   8 qEHVI-LBFGS-D HV=0.6897 sims=54 fail=0 wall=2348s cpu(opt)=1299s
+[   4813s] seed   9 qEHVI-LBFGS-D HV=0.6907 sims=54 fail=0 wall=2332s cpu(opt)=1301s
+[   4817s] seed   7 qEHVI-LBFGS-D HV=0.6896 sims=54 fail=0 wall=2403s cpu(opt)=1360s
+done 90 runs

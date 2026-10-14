@@ -1,0 +1,88 @@
+{
+  "n_seeds": 15,
+  "budget": 64,
+  "early": 32,
+  "stats": {
+    "q-EHVI (pool)": {
+      "hv_early_mean": 0.5764742716432584,
+      "hv_early_sd": 0.009728669999364227,
+      "hv_final_mean": 0.6183051557385932,
+      "hv_final_sd": 0.005975661306194375,
+      "auc_mean": 0.5329706331530869,
+      "auc_sd": 0.010331259907892066
+    },
+    "+ NSGA-II acq. opt.": {
+      "hv_early_mean": 0.6119770577733681,
+      "hv_early_sd": 0.010210816944173017,
+      "hv_final_mean": 0.6516880515462362,
+      "hv_final_sd": 0.00259381500526401,
+      "auc_mean": 0.555737159806829,
+      "auc_sd": 0.01277528714324949
+    },
+    "+ RL warm-start (hier.)": {
+      "hv_early_mean": 0.6096905050366951,
+      "hv_early_sd": 0.010686348386497773,
+      "hv_final_mean": 0.6491167898614628,
+      "hv_final_sd": 0.006397725784390578,
+      "auc_mean": 0.5553273315424343,
+      "auc_sd": 0.010987536256429314
+    },
+    "Full HERA (+ gate)": {
+      "hv_early_mean": 0.6096905050366951,
+      "hv_early_sd": 0.010686348386497773,
+      "hv_final_mean": 0.6491406710392253,
+      "hv_final_sd": 0.00641774676114566,
+      "auc_mean": 0.5553249645661229,
+      "auc_sd": 0.010983654451613374
+    },
+    "RL warm-start (flat)": {
+      "hv_early_mean": 0.6164810159940929,
+      "hv_early_sd": 0.01141051526051353,
+      "hv_final_mean": 0.6490271732102209,
+      "hv_final_sd": 0.006707596664488573,
+      "auc_mean": 0.5587954309408604,
+      "auc_sd": 0.014698498789432737
+    },
+    "q-EHVI (L-BFGS-B)": {
+      "hv_early_mean": 0.6188266823014799,
+      "hv_early_sd": 0.011163872526320324,
+      "hv_final_mean": 0.6527381530325232,
+      "hv_final_sd": 0.002420712838535754,
+      "auc_mean": 0.5582363162402151,
+      "auc_sd": 0.013676127231411987
+    }
+  },
+  "sig": {
+    "q-EHVI (pool)": {
+      "p_value": 6.103515625e-05,
+      "hv_gain": 0.03083551530063203,
+      "wins": 15,
+      "losses": 0
+    },
+    "+ NSGA-II acq. opt.": {
+      "p_value": 0.389404296875,
+      "hv_gain": -0.002547380507011073,
+      "wins": 6,
+      "losses": 9
+    },
+    "+ RL warm-start (hier.)": {
+      "p_value": 0.31731050786291415,
+      "hv_gain": 2.3881177762589503e-05,
+      "wins": 1,
+      "losses": 0
+    },
+    "RL warm-start (flat)": {
+      "p_value": 0.67877197265625,
+      "hv_gain": 0.00011349782900453853,
+      "wins": 6,
+      "losses": 9
+    },
+    "q-EHVI (L-BFGS-B)": {
+      "p_value": 0.03533935546875,
+      "hv_gain": -0.003597481993297813,
+      "wins": 5,
+      "losses": 10
+    }
+  },
+  "check_full_equals_study_HERA": true
+}

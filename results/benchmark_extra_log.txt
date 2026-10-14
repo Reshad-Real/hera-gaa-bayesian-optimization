@@ -1,0 +1,58 @@
+36 runs
+[   225s] DTLZ2 seed 5: HV=0.2940
+[   242s] DTLZ2 seed 1: HV=0.2683
+[   260s] DTLZ2 seed 0: HV=0.3135
+[   262s] DTLZ2 seed 3: HV=0.2406
+[   266s] DTLZ2 seed 4: HV=0.2544
+[   286s] DTLZ2 seed 2: HV=0.2217
+[   475s] DTLZ2 seed 7: HV=0.2524
+[   487s] DTLZ2 seed 8: HV=0.2421
+[   487s] DTLZ2 seed 10: HV=0.2930
+[   493s] DTLZ2 seed 6: HV=0.2738
+[   542s] DTLZ2 seed 11: HV=0.2093
+[   572s] DTLZ2 seed 9: HV=0.2446
+[   675s] DTLZ4 seed 0: HV=0.0141
+[   702s] DTLZ4 seed 2: HV=0.0000
+[   730s] DTLZ4 seed 3: HV=0.0000
+[   779s] DTLZ4 seed 1: HV=0.0222
+[   796s] DTLZ4 seed 5: HV=0.0000
+[   851s] DTLZ4 seed 4: HV=0.0000
+[   932s] DTLZ4 seed 6: HV=0.0000
+[   949s] DTLZ4 seed 7: HV=0.0000
+[  1046s] DTLZ4 seed 9: HV=0.0000
+[  1057s] DTLZ4 seed 10: HV=0.0000
+[  1058s] DTLZ4 seed 8: HV=0.0000
+[  1072s] DTLZ4 seed 11: HV=0.0311
+[  1164s] C2-DTLZ2 seed 1: HV=0.1926
+[  1205s] C2-DTLZ2 seed 0: HV=0.2130
+[  1288s] C2-DTLZ2 seed 3: HV=0.2053
+[  1301s] C2-DTLZ2 seed 5: HV=0.1600
+[  1306s] C2-DTLZ2 seed 4: HV=0.1901
+[  1360s] C2-DTLZ2 seed 2: HV=0.1373
+[  1466s] C2-DTLZ2 seed 7: HV=0.2222
+[  1493s] C2-DTLZ2 seed 6: HV=0.1828
+[  1564s] C2-DTLZ2 seed 9: HV=0.1919
+[  1585s] C2-DTLZ2 seed 11: HV=0.0783
+[  1607s] C2-DTLZ2 seed 8: HV=0.2450
+[  1697s] C2-DTLZ2 seed 10: HV=0.1633
+DTLZ2
+  HERA         HV=0.2680+-0.0407 IGD+=0.1353
+  qEHVI-LBFGS  HV=0.2590+-0.0308 IGD+=0.1526  p=3.01e-01 W/L=7/5
+  qEHVI        HV=0.2397+-0.0229 IGD+=0.1582  p=4.25e-02 W/L=10/2
+  qParEGO      HV=0.1677+-0.0173 IGD+=0.1959  p=4.88e-04 W/L=12/0
+  NSGA-II      HV=0.1017+-0.0342 IGD+=0.2171  p=4.88e-04 W/L=12/0
+  Random       HV=0.1204+-0.0176 IGD+=0.2057  p=4.88e-04 W/L=12/0
+DTLZ4
+  HERA         HV=0.0435+-0.0542 IGD+=0.2981
+  qEHVI-LBFGS  HV=0.0056+-0.0108 IGD+=0.3453  p=4.88e-02 W/L=7/3
+  qEHVI        HV=0.0247+-0.0379 IGD+=0.3981  p=1.05e-01 W/L=8/2
+  qParEGO      HV=0.0537+-0.0591 IGD+=0.2752  p=7.65e-01 W/L=6/5
+  NSGA-II      HV=0.0049+-0.0114 IGD+=0.4749  p=4.88e-02 W/L=8/2
+  Random       HV=0.0019+-0.0046 IGD+=0.4603  p=9.77e-03 W/L=9/1
+C2-DTLZ2
+  HERA         HV=0.1961+-0.0314 IGD+=0.1234
+  qEHVI-LBFGS  HV=0.1818+-0.0437 IGD+=0.1449  p=4.70e-01 W/L=7/5
+  qEHVI        HV=0.1535+-0.0308 IGD+=0.1574  p=1.22e-02 W/L=11/1
+  qParEGO      HV=0.1498+-0.0125 IGD+=0.1711  p=4.88e-04 W/L=12/0
+  NSGA-II      HV=0.0950+-0.0200 IGD+=0.2107  p=4.88e-04 W/L=12/0
+  Random       HV=0.0778+-0.0121 IGD+=0.2280  p=4.88e-04 W/L=12/0
